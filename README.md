@@ -1,5 +1,5 @@
 # hello-world
 training repository
 
-Hi there,
-This is ok to commit so go ahead.
+Hi my name is Debbie
+I love black labs
